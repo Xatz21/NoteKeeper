@@ -1,4 +1,5 @@
 NoteKeeper
+
 NoteKeeper is a Flask web application that allows users to sign up, log in, and manage their notes. 
 Users can create, view, and delete notes in a simple and interactive interface. The application uses SQL for storing user and note data.
 
